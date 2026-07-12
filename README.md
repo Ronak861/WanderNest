@@ -57,6 +57,14 @@ npm run deploy   # GitHub Pages via gh-pages
 ```
 
 Also deployable directly to **Netlify** (build command: `npm run build`, publish directory: `dist`).
+# 🌍 Wander — Travel Destination Explorer
 
+A polished, fully responsive React (Vite) mini-project built with **Material UI (MUI)** for the "React Mini Project — UI Library" assignment. Browse hand-picked destinations, filter by region/budget, sort by rating or price, and save favorites to a wishlist — all wrapped in smooth animations and a clean, modern travel-brand aesthetic.
+
+🔗 **Live Demo (Vercel):** https://wandernest-reactui.vercel.app/
+🔗 **Live Demo (GitHub Pages):** https://ronak861.github.io/WanderNest/
+📦 **Repository:** https://github.com/Ronak861/WanderNest
+
+![Wander Preview](./travel-explorer-preview.png)
 ---
 Built with 💚 by [Ronak](https://github.com/Ronak861)
